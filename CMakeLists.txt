@@ -364,4 +364,3 @@ endif()
 
 include(CPack)
 
-add_subdirectory(libs)
