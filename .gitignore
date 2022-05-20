@@ -37,6 +37,7 @@
 *.hex
 out/
 x64/
+.vs/
 
 # Debug files
 *.dSYM/
