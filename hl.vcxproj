@@ -276,6 +276,7 @@
   <ItemGroup>
     <ClCompile Include="src\code.c" />
     <ClCompile Include="src\debugger.c" />
+    <ClCompile Include="src\hle.c" />
     <ClCompile Include="src\jit.c" />
     <ClCompile Include="src\main.c" />
     <ClCompile Include="src\module.c" />
@@ -283,6 +284,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\hl.h" />
+    <ClInclude Include="src\hle.h" />
     <ClInclude Include="src\hlmodule.h" />
     <ClInclude Include="src\main.h" />
     <ClInclude Include="src\opcodes.h" />
